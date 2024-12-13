@@ -86,7 +86,7 @@ This project focuses on developing machine learning models to predict energy con
      - `ImpExp_flow`: The sum of all import and export flow attributes.
      - `renewable_generation`: The sum of wind energy and solar generation.
 
-7. **Visual**ization of Cleaned Data\*\*enewable\_generation is the sum of wind energy and solar generation.
+7. **Visualization of Cleaned Data\*\*enewable\_generation is the sum of wind energy and solar generation.
 
    ImpExp\_flow is the sum of all import and export flow attributes.**Visualization of Cleaned Data**
 
