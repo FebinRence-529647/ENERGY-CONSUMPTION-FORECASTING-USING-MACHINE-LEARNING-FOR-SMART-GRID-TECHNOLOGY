@@ -13,6 +13,7 @@ This project focuses on developing machine learning models to predict energy con
 ## Dataset
 
 - **Source**: Electricity Consumption in the UK (2009-2022)
+- **Link**: https://www.kaggle.com/datasets/albertovidalrod/electricity-consumption-uk-20092022
 - **File Name**: `electricity_consumption_uk.csv`
 - **Size**: 275,230 rows × 23 columns
 
