@@ -57,6 +57,7 @@ This project focuses on developing machine learning models to predict energy con
     - Checked energy demand differences on holidays vs. non-holidays.
     - Assigned seasons and analyzed energy metrics per season.
 
+### 1. Linear Regression
 #### 1.2 Imports and Setup
 
 - Essential libraries for preprocessing (pandas, MinMaxScaler), model training (LinearRegression, Ridge), hyperparameter tuning (GridSearchCV), and evaluation (mean_squared_error, r2_score).
